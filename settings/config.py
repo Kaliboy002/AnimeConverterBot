@@ -4,7 +4,7 @@ env = Env()
 env.read_env()
 
 # telegram bot token
-TOKEN = env.str("7628087790:AAEk1UPEaEWl7sshWhhDNeZI4BcwH0XyS_4")
+TOKEN = env.str("TOKEN")
 
 # postgres connection
 USER_POSTGRES = env.str("USER_POSTGRES")
